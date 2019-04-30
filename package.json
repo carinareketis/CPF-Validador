@@ -20,6 +20,8 @@
     "eslint": "^5.16.0",
     "mocha": "^6.1.4"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "nyc": "^14.0.0"
+  },
   "description": "Library that validates cpf"
 }
