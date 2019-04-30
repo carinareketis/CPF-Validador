@@ -1,0 +1,25 @@
+{
+  "name": "quit",
+  "version": "1.0.0",
+  "main": "validate-cpf.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carinareketis/-Validador-CPF.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carinareketis/-Validador-CPF/issues"
+  },
+  "homepage": "https://github.com/carinareketis/-Validador-CPF#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "eslint": "^5.16.0",
+    "mocha": "^6.1.4"
+  },
+  "devDependencies": {},
+  "description": ""
+}
