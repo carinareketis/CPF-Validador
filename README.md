@@ -1,11 +1,11 @@
 # Validador de CPF
 Biblioteca salva no NPM que verifica e valida CPF.
 
-# CPF Validator
-Library saved in NPM that verifies and validates CPF.
-
 **Esta biblioteca se destina à validação de números de CPF, para uso em aplicações web.**
 Na versão atual a biblioteca verifica se o campo está preenchido corretamente, não aceitando menos que 11 digitos, string e caracteres especiais e verifica se o número do cpf é verdadeiro ou falso.
+
+# CPF Validator
+Library saved in NPM that verifies and validates CPF.
 
 **This library is intended for validation of CPF numbers, for use in web applications.**
 In the current version the library checks if the field is filled correctly, accepting no less than 11 digits, string and special characters and verifies that the cpf number is true or false.
