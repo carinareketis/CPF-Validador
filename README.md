@@ -1,9 +1,9 @@
 # Validador de CPF
-Criação de biblioteca para validação de CPF e salvar no NPM.
+Criação de biblioteca para verificar e validar de CPF (Biblioteca salva no NPM).
 
 
 **Esta biblioteca se destina à validação de números de CPF, para uso em aplicações web.**
-Na versão atual é capaz de verificar se um CPF é válido a partir da digitação de 9 número.
+Na versão atual é capaz de verificar se um CPF é válido a partir da digitação de 11 número.
 
 ## Como instalar:
 
