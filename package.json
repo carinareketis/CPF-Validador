@@ -1,7 +1,7 @@
 {
   "name": "cpfvalidatorcarb",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "nyc mocha"
   },
@@ -20,8 +20,10 @@
     "eslint": "^5.16.0",
     "mocha": "^6.1.4"
   },
-  "devDependencies": {
-    "nyc": "^14.0.0"
-  },
+   "devDependencies": {},
+
   "description": "Library that validates cpf"
 }
+
+
+
