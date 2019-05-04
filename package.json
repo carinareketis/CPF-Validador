@@ -20,10 +20,15 @@
     "eslint": "^5.16.0",
     "mocha": "^6.1.4"
   },
-   "devDependencies": {},
-
-  "description": "Library that validates cpf"
+  "devDependencies": {},
+  "description": "Library that validates cpf",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "keywords": [
+    "validation",
+    "cpf\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C\u001bcpf",
+    "validation"
+  ]
 }
-
-
-
