@@ -24,8 +24,8 @@ $  npm install cpfvalidatorcarb
 
 ```node
 
-> const cpfValidator = require("cpfvalidatorcarb");
-> console.log(cpfValidator('82291630067'))
+> const validator = require("cpfvalidatorcarb");
+> validator.cpfValidator('82291630067')
 > // returns "true"
 
 ```
