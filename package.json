@@ -1,6 +1,6 @@
 {
   "name": "cpfvalidatorcarb",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Library that validates cpf",
   "main": "./lib/index.js",
   "scripts": {
