@@ -19,7 +19,7 @@ describe('index lib', () => {
       expect(Index.cpfValidator('00000000000')).to.equal(false);
     });
     it('cpf characters completed', () => {
-      expect(Index.cpfValidator('31832055809')).to.equal(true);
+      expect(Index.cpfValidator('82291630067')).to.equal(true);
     });
     it('cpf invalid', () => {
       expect(Index.cpfValidator('31832055890')).to.equal(false);

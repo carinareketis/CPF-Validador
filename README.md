@@ -24,8 +24,8 @@ $  npm install validatorcpf-lib
 
 ```node
 
-> const writtenNumber = require("validatorcpf-lib");
-> console.log(writtenNumber(11))
+> const cpfValidator = require("cpfvalidatorcarb");
+> console.log(cpfValidator('82291630067'))
 > // returns "true"
 
 ```
