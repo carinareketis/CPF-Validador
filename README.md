@@ -15,7 +15,7 @@ In the current version the library checks if the field is filled correctly, acce
 
 ```shell
 
-$  npm install validatorcpf-lib
+$  npm install cpfvalidatorcarb
 
 ```
 
