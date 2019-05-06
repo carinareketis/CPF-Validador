@@ -35,7 +35,7 @@ $  npm install cpfvalidatorcarb
 #### versão 2.0.0 (sem previsão, aceita-se contribuições)
 - implementação da opção de gerar números válidos de CPF;
 
-#### versão 1.0.0 (released)
+#### versão 1.0.6 (released)
 - funcionalidades: verifica e valida números de CPF.
 
 ## official project roadmap
@@ -43,5 +43,5 @@ $  npm install cpfvalidatorcarb
 #### version 2.0.0 (no forecast, contributions accepted)
 - implementation of the option to generate valid CPF numbers;
 
-#### version 1.0.0 (released)
+#### version 1.0.6 (released)
 - functionalities: verifies and validates CPF numbers.
