@@ -27,5 +27,8 @@ describe('index lib', () => {
     it('cpf valid', () => {
       expect(Index.cpfValidator('19842416054')).to.equal(true);
     });
+    it('cpf valid', () => {
+      expect(Index.cpfValidator('728.446.848-31')).to.equal(true);
+    });
   });
 });
